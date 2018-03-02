@@ -1,0 +1,18 @@
+{
+  "name": "ai_analyzer",
+  "version": "1.0.0",
+  "description": "Node-js Express with MongoDB and MVC example",
+  "main": "api/view/main.js",
+  "scripts": {
+    "test": "Welcome to Watson Analytic's ",
+    "start": "nodemon api/view/main.js"
+  },
+  "author": "Rex Ardiente",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "nodemon": "^1.17.1",
+    "watson-developer-cloud": "^3.0.7"
+  }
+}
